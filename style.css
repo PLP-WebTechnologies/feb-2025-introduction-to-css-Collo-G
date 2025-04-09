@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    background-color: #333; 
+    color: white; 
+    padding: 20px;
+    text-align: center; 
+    font-size: 2em;
+}
+
+
+#main-content {
+    margin: 20px; 
+    padding: 20px; 
+    background-color: #fff; 
+    border: 2px solid #ccc; 
+}
+
+
+.image-style {
+    width: 100%; 
+    height: auto; 
+    border: 5px solid #333; 
+    margin: 10px 0; 
+}
+
+.link-style {
+    color: #3498db; 
+    text-decoration: none; 
+}
+
+.link-style:hover {
+    text-decoration: underline; 
+}
